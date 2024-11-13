@@ -1,16 +1,17 @@
 import java.util.ArrayList;
+import java.util.List;
 
 
-  // How to remove duplicate elements from ArrayList in java
+// How to remove duplicate elements from ArrayList in java
 
 
-public class Main {
+public class QuestionOne {
 
     public static void main(String[] args) {
 
 
 
-        ArrayList<Integer> data = new ArrayList<>();
+        List<Integer> data = new ArrayList<>();
         data.add(4);
         data.add(4);
         data.add(1);
